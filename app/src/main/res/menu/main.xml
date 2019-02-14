@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Acerca de..."
+        android:id="@+id/id_informacion"
+        android:icon="@mipmap/ic_info"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="Compartir"
+        android:id="@+id/id_compartir"
+        android:icon="@mipmap/ic_share"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="Contacto"
+        android:id="@+id/id_contacto"
+        android:icon="@mipmap/ic_mail"
+        android:orderInCategory="102"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

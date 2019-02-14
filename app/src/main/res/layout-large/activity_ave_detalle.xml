@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.aveschile.jc.recycleraves.AveDetalle">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:id="@+id/ave_image"
+        android:layout_gravity="center"
+        android:layout_weight="4"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/ave_nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="titulo"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ave_descripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_weight="6"
+        android:text="descripcion"
+        android:textAlignment="center"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/ave_ruta"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="invisible"
+        android:text=""/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnGoogle"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/anima_boton_google"
+                android:onClick="onClick" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/btnEscuchar"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/anima_boton_play"
+                android:clickable="true"
+                android:onClick="onClickAudio" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+
+            <Button
+                android:id="@+id/btnEspanol"
+                android:layout_width="65dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anima_boton_chile"
+                android:onClick="onClick"
+                android:textColor="@android:color/black"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical|center_horizontal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/btnIngles"
+                android:layout_width="65dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anima_boton_uk"
+                android:onClick="onClick"
+                android:textColor="@android:color/black"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical|center_horizontal"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+
+            <Button
+                android:id="@+id/btnMapu"
+                android:layout_width="65dp"
+                android:layout_height="40dp"
+                android:background="@drawable/anima_boton_mapu"
+                android:onClick="onClick"
+                android:textColor="@android:color/black"
+                android:layout_marginRight="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical|center_horizontal"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

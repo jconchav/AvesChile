@@ -1,0 +1,1259 @@
+<resources>
+    <string name="app_name">Aves Chile</string>
+
+    //texto botones pantallas detalle
+    <string name="btnGoogle">Google</string>
+
+    <string name="btnEscuchar">Escuchar</string>
+
+    <string name="btnEspañol">Español</string>
+
+    <string name="btnMapu">Mapudungun</string>
+
+    <string name="btnIngles">Ingles</string>
+
+
+    //textos mapu
+    <string name="texto_cachudito_mapu">
+        Üi: Pichpich.\n
+        Ilelkawün: isiken ka ütran.\n
+        Wif: mari kiñe cms.
+
+    </string>
+
+    <string name="texto_chercan_mapu">
+       Üi: Chedüf.\n
+       Ilelkawün: müngelkechi isiken.\n
+       Wif: mari epu cms.
+
+    </string>
+
+    <string name="texto_chincol_mapu">
+        Üi: Meñkutoki.\n
+        Ilelkawün: müngelkechi isiken.\n
+        Wif: mari meli ka mari kechu cms.
+
+    </string>
+
+    <string name="texto_chirigue_mapu">
+        Üi: Chiriw.\n
+        Ilelkawün: müngelkechi ütran.\n
+        Wif: mari meli ka mari kechu cms.
+
+    </string>
+
+    <string name="texto_chuncho_mapu">
+        Üi: Killkill.\n
+        Ilelkawün : üñüm, isiken, koneku, filu.\n
+        Wif: epu mari ka epu mari kiñe cms.
+
+    </string>
+
+    <string name="texto_colegial_mapu">
+        Üi: Menku Kashka.\n
+        Ilelkawün: isiken ka piru.\n
+        Wif: mari epu ka mari küla cms.
+
+    </string>
+
+    <string name="texto_diucon_mapu">
+        Üi: Püdko.\n
+        Ilelkawün: isiken ka fünmamüll.\n
+        Wif: epu mari kiñe cms.
+
+    </string>
+
+    <string name="texto_fiofio_mapu">
+        Üi: Wiyu.\n
+        Ilelkawün: isiken, ütran, pewün fünmamüll.\n
+        Wif: mari kechu cms.
+
+    </string>
+
+    <string name="texto_golondrina_mapu">
+        Üi: Pillmaykeñ.\n
+        Ilelkawün: müngelkechi isiken.\n
+        Wif: mari küla ka mari meli cms.
+
+    </string>
+
+    <string name="texto_jilguero_mapu">
+        Üi: Chiw-chiw.\n
+        Ilelkawün: ütran ka isiken.\n
+        Wif: mari küla ka mari meli cms.
+
+    </string>
+
+    <string name="texto_picaflorchico_mapu">
+        Üi: Pichi Pinda.\n
+        Ilelkawün: miski rayen.\n
+        Wif: mari kiñe cms.
+
+    </string>
+
+    <string name="texto_platero_mapu">
+        Üi: Platero.\n
+        Ilelkawün: ütran ka isiken.\n
+        Wif: mari kechu cms.
+
+    </string>
+
+    <string name="texto_queltehue_mapu">
+        Üi:Tregül.\n
+        Ilelkawüm: ütran ka isiken.\n
+        Wif:küla mari kechu ka küla mari regle cms.
+    </string>
+
+    <string name="texto_rara_mapu">
+        Üi: Kamtrü.\n
+        Ilelkawün: müngelkechi isiken. \n
+        Wif: mari aylla ka epu mari cms.
+
+    </string>
+
+    <string name="texto_rayadito_mapu">
+        Üi: Rayadito.\n
+        Ilelkawün:  müngelkechi isiken. \n
+        Wif: mari küla ka mari kechu cms.
+
+    </string>
+
+    <string name="texto_tapaculo_mapu">
+        Üi: Tapaculo.\n
+        Ilelkawün: isiken, llalliñ, yupe, pichi filkuñ.\n
+        Wif: mari püra ka mari aylla cms.
+
+    </string>
+
+    <string name="texto_tucuquere_mapu">
+        ÜI: Tucuquere.\n
+        Ilelkawün: pu koneku, zewü, filu ka kake pichi kulliñ.\n
+        Wif: meli mari püra ka kechu mari cms.
+
+    </string>
+
+    <string name="texto_turca_mapu">
+        Üi: Turco.\n
+        Ilelkawün: isiken, düllwi ka piru.\n
+        Wif: epu mari küla ka epu mari meli cms.
+
+    </string>
+
+    <string name="texto_yal_mapu">
+        Üi: Yal.\n
+        Ilelkawün: müngelkechi ütran, pichi fun ka piru.\n
+        Wif: mari püra ka mari aylla cms.
+
+    </string>
+
+    <string name="texto_zorzal_mapu">
+        Üi: Wilki.\n
+        Ilelkawün: piru, fotra kulliñ, afülechi fün.\n
+        Wif: mari aylla  cms.
+
+    </string>
+
+    <string name="texto_tortolacordillerana_mapu">
+        Üi: Maykoño Pire Mapu.\n
+        Ilelkawün: müngelkechi ütran.\n
+        Wif: epu mari küla ka epu mari meli cms.
+
+    </string>
+
+    <string name="texto_bandurrilla_mapu">
+        Üi: Rakiñ.\n
+        Ilelkawün: müngelkechi isiken.\n
+        Wif: epu mari kiñe cms.
+
+    </string>
+
+    <string name="texto_pilpilen_mapu">
+        Üi: Pilpilén.\n
+        Ilelkawün: ko kulliñ ka fptra kulliñ.\n
+        Wif: meli mari küla ka meli mari meli cms.
+
+    </string>
+
+    <string name="texto_perdizchilena_mapu">
+        Üi: Füdü.\n
+        Ilelkawün: ütran ka isiken.\n
+        Wif: epu mari aylla ka küla mari cms.
+
+    </string>
+
+    <string name="texto_pitotoychico_mapu">
+        Üi: Pitotoy Chico.\n
+        Ilelkawün: isiken ka piru.\n
+        Wif: epu mari kechu cms.
+
+    </string>
+
+    <string name="texto_gorrion_mapu">
+        Üi: Gorrión.\n
+        Ilelkawün: isiken ka ütran.\n
+        Wif: mari kayü ka mari regle cms.
+
+    </string>
+
+    <string name="texto_cometocinodegay_mapu">
+        Üi: Cometocino de Gay.\n
+        Ilelkawün: ütran ka isiken. \n
+        Wif: mari kechu ka mari kayü cms.
+
+    </string>
+
+    <string name="texto_picaflorgigante_mapu">
+        Üi: Futa Pinda.\n
+        Ilelkawün: miski rayen ka isiken.\n
+        Wif: epu mari kiñe ka epu mari epu cms.
+
+    </string>
+
+    <string name="texto_zorzalmero_mapu">
+        Üi: Wilki Mero.\n
+        Ilelkawün: isiken, pakarwa ka fillkuñ.\n
+        Wif: epu mari regle ka epu mari püra cms.
+
+    </string>
+
+    <string name="texto_perrito_mapu">
+        Üi: Perrito.\n
+        Ilelkawün: isiken ka kiñeke piru.\n
+        Wif: meli mari epu cms.
+
+    </string>
+
+    <string name="texto_diuca_mapu">
+        Üi: Shiwka.\n
+        Ilelkawün: müngelkechi ütran.\n
+        Wif: mari regle ka mari püra cms.
+
+    </string>
+
+    <string name="texto_churrin_mapu">
+        Üi: Churrin.\n
+        Wif: mari kiñe cms.
+
+    </string>
+
+    <string name="texto_pitio_mapu">
+        Üi: Pütiw.\n
+        Ilelkawün: isiken ka pu piru.\n
+        Wif: küla mari epu ka küla mari meli cms.
+
+    </string>
+
+    <string name="texto_canastero_mapu">
+        Üi: Canastero.\n
+        Ilelkawün: müngelkechi isiken.\n
+        Wif: mari kayu ka mari regle cms.
+
+    </string>
+
+    <string name="texto_gallinaciega_mapu">
+        Üi: Gallina Ciega.\n
+        Ilelkawün: müngelkechi isiken.\n
+        Wif: epu mari meli cms
+
+    </string>
+
+    <string name="texto_loica_mapu">
+        Üi: Lloyka.\n
+        Ilelkawün: isiken, ütran ka fün.\n
+        Wif: epu mari kayu cms
+
+    </string>
+
+    <string name="texto_minerocordillerano_mapu">
+        Üi: Minero Cordillerano.\n
+        Ilelkawün: isiken ka ütran.\n
+        Wif: mari kayu cms.
+
+    </string>
+
+    <string name="texto_tenca_mapu"> 
+        Üi: Tremka.\n 
+        Ilelkawün: isiken, düllwi ka piru.\n 
+        Wif: epu mari purra cms. 
+    </string>
+
+    <string name="texto_tiuque_mapu"> 
+        Üi: Triwkü.\n 
+        Ilelkawün: isiken, llalliñ, yupe, pichi filkuñ.\n
+        Wif: küla mari regle ka meli mari cms. 
+    </string>
+
+
+    <string name="texto_tordo_mapu"> 
+        Üi: Kürew.\n 
+        Ilelkawün: isiken ka ütran.\n 
+        Wif: epu mari purra cms. 
+    </string>
+
+
+
+    //up 1.0.1
+
+    <string name="texto_cometocino_patagonico_mapu"> 
+        Üi: Cometocino Patagónico.\n 
+        Ilelkawün: miski rayen.\n 
+        Wif: mari meli ka mari kayu cms.  
+    </string>
+
+    <string name="texto_tijeral_mapu"> 
+        Üi: Tijeral.\n 
+        Ilelkawün: isiken.\n 
+        Wif: mari kechu ka mari purra cms. 
+    </string>
+
+    <string name="texto_tortola_comun_mapu"> 
+        Üi: maykoño.\n 
+        Ilelkawün: ütran.\n 
+        Wif: epu mari küla ka epu mari purra cms. 
+    </string>
+
+    <string name="texto_viudita_mapu"> 
+        Üi: peutren.\n 
+        Ilelkawün: isiken.\n 
+        Wif: epu mari kechu cms. 
+    </string>
+
+    <string name="texto_codorniz_mapu"> 
+        Üi: düllo - pichifüdü.\n 
+        Ilelkawün: isiken ka piru.\n 
+        Wif: epu mari kechu cms. 
+    </string>
+
+    <string name="texto_tortolita_cuyana_mapu"> 
+        Üi: Tortolita Cuyana.\n 
+        Ilelkawün: ütran.\n 
+        Wif: mari purra cms. 
+    </string>
+
+    <string name="texto_nuco_mapu"> 
+        Üi: nuku.\n 
+        Ilelkawün: koneku ka filu.\n 
+        Wif: küla mari kayu cms. 
+    </string>
+
+    <string name="texto_carpinterito_mapu"> 
+        Üi: Carpinterito.\n 
+        Ilelkawün: isiken ka piru.\n 
+        Wif: mari kechu ka mari purra cms. 
+    </string>
+
+    <string name="texto_zarapito_mapu"> 
+        Üi: Zarapito.\n 
+        Ilelkawün: piru.\n 
+        Wif: meli mari kechu cms. 
+    </string>
+
+    <string name="texto_rayador_mapu"> 
+        Üi: Rayador.\n 
+        Ilelkawün: isiken.\n 
+        Wif: meli mari kayu cms. 
+    </string>
+
+    <string name="texto_gaviota_dominicana_mapu"> 
+        Üi: kawkaw.\n 
+        Ilelkawün: isiken ka kiñeke piru.\n 
+        Wif: mari purra cms. 
+    </string>
+
+    <string name="texto_yeco_mapu"> 
+        Üi: yeku.\n 
+        Ilelkawün: kiñeke.\n 
+        Wif: kechu mari purra ka regle mari küla cms. 
+    </string>
+
+    <string name="texto_gaviota_franklin_mapu"> 
+        Üi: Gaviota de Franklin.\n 
+        Ilelkawün: isiken ka piru.\n 
+        Wif: küla mari purra ka meli mari küla cms. 
+    </string>
+
+    <string name="texto_churrete_mapu"> 
+        Üi: Co üñüm.\n 
+        Ilelkawün: piru.\n 
+        Wif: epu mari epu cms. 
+    </string>
+
+    <string name="texto_chucao_mapu"> 
+        Üi: chukaw.\n 
+        Ilelkawün: isiken ka piru.\n 
+        Wif: mari purra ka mari aylla cms. 
+    </string>
+
+    <string name="texto_mirlo_mapu"> 
+        Üi: Mirlo.\n 
+        Ilelkawün: isiken ka ütran.\n 
+        Wif: 19 a 20 cms. 
+    </string>
+
+
+    //textos ingles
+    <string name="texto_cachudito_ingles">
+        Scientific Name: Anairetes Parulus. \n
+        Feeding: insects and seeds. \n
+        Length: 11 cms.
+
+    </string>
+
+    <string name="texto_chercan_ingles">
+       Scientific Name: Troglodytes Redon Chilensis. \n
+       Feeding: insects. \n
+       Length: 12 cms.
+    </string>
+
+    <string name="texto_chincol_ingles">
+        Scientific Name: Zonatrichia Capensis Chilensis. \n
+        Feeding: basically insectivorous. \n
+        Length: 14 to 15 cms.
+    </string>
+
+    <string name="texto_chirigue_ingles">
+        Scientific Name: Sicalis Luteola Luteiventris. \n
+        Feeding: mainly seeds. \n
+        Length: 14 to 15 cms.
+    </string>
+
+    <string name="texto_chuncho_ingles">
+        Scientific Name: Glaucidium Nanum. \n
+        Feeding: birds, insects, small mammals and reptiles. \n
+        Length: 20 to 21 cms.
+    </string>
+
+    <string name="texto_colegial_ingles">
+        Scientific Name: Lessonia Rufa. \n
+        Feeding: insects and larvae. \n
+        Length: 12 to 13 cms.
+    </string>
+
+    <string name="texto_diucon_ingles">
+        Scientific Name: Xolmis Pyrope. \n
+        Feeding: mainly insects and wild fruits. \n
+        Length: 21 cms.
+    </string>
+
+    <string name="texto_fiofio_ingles">
+        Scientific Name: Elaenia Albiceps Chilensis. \n
+        Feeding: mainly insects, but also seeds and tree shoots. \n
+        Length: 15 cms.
+    </string>
+
+    <string name="texto_golondrina_ingles">
+        Scientific Name: Tachycineta Meyeni. \n
+        Feeding: mainly insects. \n
+        Length: 13 to 14 cms.
+    </string>
+
+    <string name="texto_jilguero_ingles">
+        Scientific Name: Carduelis Barbata. \n
+        Feeding: seeds and insects. \n
+        Length: 13 to 14 cms.
+    </string>
+
+    <string name="texto_picaflorchico_ingles">
+        Scientific Name: Sephanoides. \n
+        Feeding: pollen and nectar of flowers. \n
+        Length: 11 cms.
+    </string>
+
+    <string name="texto_platero_ingles">
+        Scientific Name: Phrygilus Alaudinus. \n
+        Feeding: seeds and invertebrates. \n
+        Length: 15 cms.
+    </string>
+
+    <string name="texto_queltehue_ingles">
+        Scientific Name: Vanellus chilensis.\n
+        Feeding: Insects and seeds.\n
+        Length:35 to 37 cms.
+    </string>
+
+    <string name="texto_rara_ingles">
+        Scientific Name: Phytotoma Rara. \n
+        Feeding: fruits and insects.\n
+        Length: 19 to 20 cms.
+    </string>
+
+    <string name="texto_rayadito_ingles">
+        Scientific Name: Aphrastura Spinicauda. \n
+        Feeding: insects.\n
+        Length: 13 to 15 cms.
+    </string>
+
+    <string name="texto_tapaculo_ingles">
+        Scientific Name: Sceriorchilus Albicollis. \n
+        Feeding: insects, arachnids and small reptiles. \n
+        Length: 18 to 19 cms.
+    </string>
+
+    <string name="texto_tucuquere_ingles">
+        Scientific Name: Bubo Magellanicus. \n
+        Feeding: rabbits, mice, snakes and other small animals. \n
+        Length: 48 to 50 cms.
+    </string>
+
+    <string name="texto_turca_ingles">
+        Scientific Name: Pteroptochos Megapodius. \n
+        Feeding: insects and worms. \n
+        Length: 23 to 24 cms.
+    </string>
+
+    <string name="texto_yal_ingles">
+        Scientific Name: Phrygilus Fruticeli. \n
+        Feeding: mainly seeds, also small fruits and invertebrates. \n
+        Length: 18 to 19 cms.
+    </string>
+
+    <string name="texto_zorzal_ingles">
+        Scientific Name: Turdus Falcklandi Magellanicus. \n
+        Feeding: worms, snails and some ripe fruits. \n
+        Length: 19 cms.
+    </string>
+
+    <string name="texto_tortolacordillerana_ingles">
+        Scientific Name: Metriopelia Melanoptera. \n
+        Feeding: mainly seeds. \n
+        Length: 23 to 24 cms.
+    </string>
+
+    <string name="texto_bandurrilla_ingles">
+        Scientific Name: Upucerthia Dumetaria. \n
+        Feeding: insects. \n
+        Length: 21 cms.
+    </string>
+
+    <string name="texto_pilpilen_ingles">
+        Scientific Name: Haematopus Palliatus. \n
+        Feeding: oysters and molluscs. \n
+        Length: 43 to 44 cms.
+    </string>
+
+    <string name="texto_perdizchilena_ingles">
+        Scientific Name: Nothoprocta Perdicaria. \n
+        Feeding: seeds and insects. \n
+        Length: 29 to 30 cms.
+    </string>
+
+    <string name="texto_pitotoychico_ingles">
+        Scientific Name: Tringa Flavipes. \n
+        Feeding: insects, larvae and small fish.\n
+        Length: 25 cms.
+    </string>
+
+    <string name="texto_gorrion_ingles">
+        Scientific Name: Passer Domesticus. \n
+        Feeding: insects and seeds. \n
+        Length: 16 to 17 cms.
+    </string>
+
+    <string name="texto_cometocinodegay_ingles">
+        Scientific Name: Phrygilus Gay. \n
+        Feeding:fruits, seeds and invertebrates. \n
+        Length: 15 to 16 cms.
+    </string>
+
+    <string name="texto_picaflorgigante_ingles">
+        Scientific Name: Patagona Gigas. \n
+        Feeding: nectar of flowers and insects. \n
+        Length: 21 to 22 cms.
+    </string>
+
+    <string name="texto_zorzalmero_ingles">
+        Scientific Name: Agriornis Livida. \n
+        Feeding: insects, toads, lizards. \n
+        Length: 27 to 28 cms.
+    </string>
+
+    <string name="texto_perrito_ingles">
+        Scientific Name: Himantopus Mexicanus Melanurus. \n
+        Feeding: Insects and some invertebrates. \n
+        Length: 42 cms.
+    </string>
+
+    <string name="texto_diuca_ingles">
+        Scientific Name: Diuca diuca. \n
+        Feeding: mainly seeds. \n
+        Length: 17 to 18 cms.
+    </string>
+
+    <string name="texto_churrin_ingles">
+        Scientific Name: Scytalopus Magellanicus. \n
+        Length: 11 cms.
+    </string>
+
+    <string name="texto_pitio_ingles">
+        Scientific Name: Colaptes Pitius. \n
+        Feeding: insects and larvae. \n
+        Length: 32 to 34 cms.
+    </string>
+
+    <string name="texto_canastero_ingles">
+        Scientific Name: Pseudasthenes Humicola. \n
+        Feeding: mainly insects. \n
+        Length: 16 to 17 cms.
+    </string>
+
+    <string name="texto_gallinaciega_ingles">
+        Scientific Name: Systellura Longirostris Bifasciatus. \n
+        Feeding: based entirely on insects. \n
+        Length: 24 to 25 cms.
+    </string>
+
+    <string name="texto_loica_ingles">
+        Scientific Name: Sturnella Loyca. \n
+        Feeding: insects, seeds and fruits. \n
+        Length: 26 to 28 cms.
+    </string>
+
+    <string name="texto_minerocordillerano_ingles">
+        Scientific Name: Geositta Rufipennis Fasciata. \n
+        Feeding: insects and seeds. \n
+        Length: 16 cms.
+    </string>
+
+    <string name="texto_tenca_ingles"> 
+        Scientific Name: Mimus thenca.\n 
+        Feeding: insects and worms.\n 
+        Length: 28 cms. 
+    </string>
+
+    <string name="texto_tordo_ingles"> 
+        Scientific Name: Curaenus Curaenus.\n 
+        Feeding: insects and fruits.\n 
+        Length: 28 cms. 
+    </string>
+
+    <string name="texto_tiuque_ingles"> 
+        Scientific Name: Milvago Chimango.\n 
+        Feeding: insects, worms, toads and scavenger on occasion.\n 
+        Length: 37 to 40 cms. 
+    </string>
+
+
+    //up 1.0.1
+
+    <string name="texto_cometocino_patagonico_ingles"> 
+        Scientific Name: Phrygilus Patagonicus.\n 
+        Feeding: seeds, fruits and nectar.\n 
+        Length: 14 a 16 cms.  
+    </string>
+
+    <string name="texto_tijeral_ingles"> 
+        Scientific Name: Leptasthenura Aegithaloides.\n 
+        Feeding: insects.\n 
+        Length: 15 a 18 cms. 
+    </string>
+
+    <string name="texto_tortola_comun_ingles"> 
+        Scientific Name: Zenaida Auriculata.\n 
+        Feeding: seeds.\n 
+        Length: 23 a 28 cms. 
+    </string>
+
+    <string name="texto_viudita_ingles"> 
+        Scientific Name: Colorhamphus Parvirostris.\n 
+        Feeding: insects.\n 
+        Length: 25 cms. 
+    </string>
+
+    <string name="texto_codorniz_ingles"> 
+        Scientific Name: Callipepla Californica.\n 
+        Feeding: insects and worms.\n 
+        Length: 25 cms. 
+    </string>
+
+    <string name="texto_tortolita_cuyana_ingles"> 
+        Scientific Name: Columbina Picuis.\n 
+        Feeding: seeds.\n 
+        Length: 18 cms. 
+    </string>
+
+    <string name="texto_nuco_ingles"> 
+        Scientific Name: Asio Flammeus.\n 
+        Feeding: small mammalls.\n 
+        Length: 36 cms. 
+    </string>
+
+    <string name="texto_carpinterito_ingles"> 
+        Scientific Name: Picoides Lignarius.\n 
+        Feeding: insects and worms.\n 
+        Length: 15 a 18 cms. 
+    </string>
+
+    <string name="texto_zarapito_ingles"> 
+        Scientific Name: Numenius Phaeopus Hudsonicus.\n 
+        Feeding: sea ​​fleas, crustaceans and larvae.\n 
+        Length: 45 cms. 
+    </string>
+
+    <string name="texto_rayador_ingles"> 
+        Scientific Name: Rynchops Niger Cinerascens.\n 
+        Feeding: small fish and insects.\n 
+        Length: 46 cms. 
+    </string>
+
+    <string name="texto_gaviota_dominicana_ingles"> 
+        Scientific Name: Larus Dominicanus.\n 
+        Feeding: fish, shellfish and crustaceans.\n 
+        Length: 18 cms. 
+    </string>
+
+    <string name="texto_yeco_ingles"> 
+        Scientific Name: Phalacrocorax Brasilianus.\n 
+        Feeding: fish and crustaceans.\n 
+        Length: 58 a 73 cms. 
+    </string>
+
+    <string name="texto_gaviota_franklin_ingles"> 
+        Scientific Name: Larus Pipixcan.\n 
+        Feeding: insects y worms.\n 
+        Length: 38 a 43 cms. 
+    </string>
+
+    <string name="texto_churrete_ingles"> 
+        Scientific Name: Cinclodes Patagonicus.\n 
+        Feeding: invertebrates.\n 
+        Length: 22 cms. 
+    </string>
+
+    <string name="texto_chucao_ingles"> 
+        Scientific Name: Schelorchilus Rubecula.\n 
+        Feeding: insects and invertebrates.\n 
+        Length: 18 a 19 cms. 
+    </string>
+
+    <string name="texto_mirlo_ingles"> 
+        Scientific Name: Molathrus Bonariensis.\n 
+        Feeding: insects and seeds.\n 
+        Length: 19 a 20 cms. 
+    </string>
+
+
+
+
+
+    //textos aves
+     
+    <string name="texto_cachudito"> 
+       Nombre Científico: Anairetes Parulus.\n 
+       Alimentación: semillas e insectos.\n 
+       Largo: 11 cms.  
+    </string>
+
+      <string name="texto_chercan"> 
+       Nombre Científico: Troglodytes Redon Chilensis. \n 
+       Alimentación: principalmente insectos. \n 
+       Largo: 12 cms. 
+    </string>  
+
+    <string name="texto_chincol"> 
+        Nombre Científico: Zonatrichia Capensis Chilensis.\n 
+        Alimentación: principalmente insectos.\n 
+        Largo: 14 a 15 cms. 
+    </string>  
+
+    <string name="texto_chirigue"> 
+        Nombre Científico: Sicalis Luteola Luteiventris.\n 
+        Alimentación: principalmente semillas.\n 
+        Largo: 14 a 15 cms. 
+    </string>
+
+      <string name="texto_chuncho"> 
+        Nombre Científico: Glaucidium Nanum.\n 
+        Alimentación: aves, pequeños mamíferos y reptiles.\n 
+        Largo: 20 a 21 cms. 
+    </string>  
+
+    <string name="texto_colegial"> 
+        Nombre Científico: Lessonia Rufa.\n 
+        Alimentación: insectos y larvas.\n 
+        Largo: 12 a 13 cms. 
+    </string>  
+
+    <string name="texto_diucon"> 
+        Nombre Científico: Xolmis Pyrope.\n 
+        Alimentación: insectos y frutas silvestres.\n 
+        Largo: 21 cms. 
+    </string>  
+
+    <string name="texto_fiofio"> 
+        Nombre Científico: Elaenia Albiceps Chilensis.\n 
+        Alimentación: insectos, semillas y brotes de árboles.\n 
+        Largo: 15 cms. 
+    </string>  
+
+    <string name="texto_golondrina"> 
+        Nombre Científico: Tachycineta Meyeni.\n 
+        Alimentación: principalmente insectos.\n 
+        Largo: 13 a 14 cms. 
+    </string>  
+
+    <string name="texto_jilguero"> 
+        Nombre Científico: Carduelis Barbata.\n 
+        Alimentación: semillas e insectos.\n 
+        Largo: 13 a 14 cms. 
+    </string>  
+
+    <string name="texto_picaflorchico"> 
+        Nombre Científico: Sephanoides.\n 
+        Alimentación: polen y nectar de flores.\n 
+        Largo: 11 cms. 
+    </string>  
+
+    <string name="texto_platero"> 
+        Nombre Científico: Phrygilus Alaudinus.\n
+        Alimentación: semillas e invertebrados.\n 
+        Largo: 15 cms. 
+    </string>
+
+    <string name="texto_queltehue">
+        Nombre Cientifico:Vanellus Chilensis.\n
+        Alimentación: semillas e insectos.\n
+        Largo: 35 a 37 cms.
+    </string>
+
+      
+    <string name="texto_rara"> 
+       Nombre Científico: Phytotoma Rara.\n
+       Alimentación: frutos e insectos.\n 
+       Largo: 19 a 20 cms. 
+    </string>
+
+      <string name="texto_rayadito"> 
+       Nombre Científico: Aphrastura Spinicauda.\n
+       Alimentación: basada totalmente en insectos.\n 
+       Largo: 13 a 15 cms. 
+    </string>  
+
+    <string name="texto_tapaculo"> 
+        Nombre Científico: Sceriorchilus Albicollis.\n 
+        Alimentación: insectos, arácnidos y pequeños reptiles.\n 
+        Largo: 18 a 19 cms. 
+    </string>  
+
+    <string name="texto_tiuque">
+        Nombre Científico:Milvago Chimango.\n
+        Alimentación:insectos, gusanos, sapos y carroñero en ocasiones.\n
+        Largo:37 a 40 cms.
+    </string>
+
+    <string name="texto_tordo">
+        Nombre Científico:Curaenus Curaenus.\n
+        Alimentación:semillas y pequeños frutos.\n
+        Largo:28 cms.
+    </string>
+
+    <string name="texto_tucuquere"> 
+        Nombre Científico: Bubo Magellanicus.\n 
+        Alimentación: conejos, roedores, reptiles y pequeños animales.\n 
+        Largo: 48 a 50 cms. 
+    </string>  
+
+    <string name="texto_turca"> 
+        Nombre Científico: Pteroptochos Megapodius.\n 
+        Alimentación: insectos, lombrices y gusanos.\n 
+        Largo: 23 a 24 cms. 
+    </string>
+
+      <string name="texto_yal"> 
+        Nombre Científico: Phrygilus Fruticeli.\n 
+        Alimentación: semillas, frutos pequeños e invertebrados.\n 
+        Largo: 18 a 19 cms. 
+    </string>  
+
+    <string name="texto_zorzal"> 
+        Nombre Científico: Turdus Falcklandi Magellanicus.\n 
+        Alimentación: lombrices, caracoles y frutos maduros.\n 
+        Largo: 19 cms. 
+    </string>  
+
+    <string name="texto_tortolacordillerana"> 
+        Nombre Científico: Metriopelia Melanoptera.\n 
+        Alimentación: principalmente semillas.\n 
+        Largo: 23 a 24 cms. 
+    </string>
+
+      
+    <string name="texto_bandurrilla"> 
+       Nombre Científico: Upucerthia Dumetaria.\n 
+       Alimentación: principalmente insectos.\n 
+       Largo: 21 cms. 
+    </string>
+
+      
+    <string name="texto_pilpilen"> 
+       Nombre Científico: Haematopus Palliatus.\n 
+       Alimentación: ostras y moluscos.\n 
+       Largo: 43 a 44 cms. 
+    </string>
+
+      <string name="texto_perdizchilena"> 
+       Nombre Científico: Nothoprocta Perdicaria.\n 
+       Alimentación: semillas e insectos.\n 
+       Largo: 29 a 30 cms. 
+    </string>  
+
+    <string name="texto_pitotoychico"> 
+        Nombre Científico: Tringa Flavipes.\n
+        Alimentación: insectos, larvas y pequeños peces.\n 
+        Largo: 25 cms. 
+    </string>  
+
+    <string name="texto_gorrion"> 
+        Nombre Científico: Passer Domesticus.\n 
+        Alimentación: insectos y semillas.\n 
+        Largo: 16 a 17 cms. 
+    </string>  
+
+    <string name="texto_cometocinodegay"> 
+        Nombre Científico: Phrygilus Gay.\n
+        Alimentación: frutos, semillas e invertebrados.\n 
+        Largo: 15 a 16 cms. 
+    </string>
+
+      <string name="texto_picaflorgigante"> 
+        Nombre Científico: Patagona Gigas.\n 
+        Alimentación: nectar de flores e insectos.\n 
+        Largo: 21 a 22 cms. 
+    </string>  
+
+    <string name="texto_zorzalmero"> 
+        Nombre Científico: Agriornis Livida.\n 
+        Alimentación: insectos, sapos y lagartijas.\n 
+        Largo: 27 a 28 cms. 
+    </string>  
+
+    <string name="texto_perrito"> 
+        Nombre Científico: Himantopus Mexicanus Melanurus.\n 
+        Alimentación: insectos y algunos invertebrados.\n 
+        Largo: 42 cms. 
+    </string>
+
+      <string name="texto_diuca"> 
+        Nombre Científico: Diuca diuca.\n 
+        Alimentación: principalmente semillas.\n 
+        Largo: 17 a 18 cms. 
+    </string>  
+
+    <string name="texto_churrin"> 
+        Nombre Científico: Scytalopus Magellanicus.\n 
+        Largo: 11 cms. 
+    </string>
+
+      
+    <string name="texto_pitio"> 
+        Nombre Científico: Colaptes Pitius.\n 
+        Alimentación: insectos y larvas.\n 
+        Largo: 32 a 34 cms. 
+    </string>
+
+      <string name="texto_canastero"> 
+        Nombre Científico: Pseudasthenes Humicola.\n 
+        Alimentación: principalmente insectos.\n 
+        Largo: 16 a 17 cms. 
+    </string>  
+
+    <string name="texto_gallinaciega"> 
+        Nombre Científico: Systellura Longirostris Bifasciatus.\n 
+        Alimentación: basada totalmente en insectos.\n 
+        Largo: 24 a 25 cms. 
+    </string>
+
+      <string name="texto_loica"> 
+        Nombre Científico: Sturnella Loyca.\n 
+        Alimentación: insectos, semillas y frutos.\n 
+        Largo: 26 a 28 cms. 
+    </string>  
+
+    <string name="texto_minerocordillerano"> 
+        Nombre Científico: Geositta Rufipennis Fasciata.\n 
+        Alimentación: insectos y semillas.\n 
+        Largo: 16 cms. 
+    </string>
+
+    <string name="texto_tenca"> 
+        Nombre Científico: Mimus thenca.\n 
+        Alimentación: insectos, gusanos y semillas.\n 
+        Largo: 28 cms. 
+    </string>
+
+
+    //up 1.0.1
+
+    <string name="texto_cometocino_patagonico"> 
+        Nombre Científico: Phrygilus Patagonicus.\n 
+        Alimentación: semillas, frutos y nectar.\n 
+        Largo: 14 a 16 cms. 
+    </string>
+
+
+    <string name="texto_tijeral"> 
+        Nombre Científico: Leptasthenura Aegithaloides.\n 
+        Alimentación: insectos.\n 
+        Largo: 15 a 18 cms. 
+    </string>
+
+    <string name="texto_tortola_comun"> 
+        Nombre Científico: Zenaida Auriculata.\n 
+        Alimentación: semillas.\n 
+        Largo: 23 a 28 cms. 
+    </string>
+
+    <string name="texto_viudita"> 
+        Nombre Científico: Colorhamphus Parvirostris.\n 
+        Alimentación: insectos.\n 
+        Largo: 25 cms. 
+    </string>
+
+    <string name="texto_codorniz"> 
+        Nombre Científico: Callipepla Californica.\n 
+        Alimentación: insectos y gusanos.\n 
+        Largo: 25 cms. 
+    </string>
+
+    <string name="texto_tortolita_cuyana"> 
+        Nombre Científico: Columbina Picuis.\n 
+        Alimentación: semillas.\n 
+        Largo: 18 cms. 
+    </string>
+
+    <string name="texto_nuco"> 
+        Nombre Científico: Asio Flammeus.\n 
+        Alimentación: pequeños mamíferos.\n 
+        Largo: 36 cms. 
+    </string>
+
+    <string name="texto_carpinterito"> 
+        Nombre Científico: Picoides Lignarius.\n 
+        Alimentación: gusanos e insectos.\n 
+        Largo: 15 a 18 cms. 
+    </string>
+
+    <string name="texto_zarapito"> 
+        Nombre Científico: Numenius Phaeopus Hudsonicus.\n 
+        Alimentación: pulgas de mar, crustáceos y larvas.\n 
+        Largo: 45 cms. 
+    </string>
+
+    <string name="texto_rayador"> 
+        Nombre Científico: Rynchops Niger Cinerascens.\n 
+        Alimentación: pequeños peces e insectos.\n 
+        Largo: 46 cms. 
+    </string>
+
+    <string name="texto_gaviota_dominicana"> 
+        Nombre Científico: Larus Dominicanus.\n 
+        Alimentación: peces, mariscos y crustáceos.\n 
+        Largo: 18 cms. 
+    </string>
+
+    <string name="texto_yeco"> 
+        Nombre Científico: Phalacrocorax Brasilianus.\n 
+        Alimentación: peces y crustáceos.\n 
+        Largo: 58 a 73 cms. 
+    </string>
+
+    <string name="texto_gaviota_franklin"> 
+        Nombre Científico: Larus Pipixcan.\n 
+        Alimentación: insectos y lombrices.\n 
+        Largo: 38 a 43 cms. 
+    </string>
+
+    <string name="texto_churrete"> 
+        Nombre Científico: Cinclodes Patagonicus.\n 
+        Alimentación: invertebrados.\n 
+        Largo: 22 cms. 
+    </string>
+
+    <string name="texto_chucao"> 
+        Nombre Científico: Schelorchilus Rubecula.\n 
+        Alimentación: insectos e invertebrados.\n 
+        Largo: 18 a 19 cms. 
+    </string>
+
+    <string name="texto_mirlo"> 
+        Nombre Científico: Molathrus Bonariensis.\n 
+        Alimentación: insectos y semillas.\n 
+        Largo: 19 a 20 cms. 
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //texto titulos
+    <string name="titulo_cachudito">CACHUDITO</string>
+
+    <string name="titulo_chercan">CHERCAN</string>
+
+    <string name="titulo_chincol">CHINCOL</string>
+
+    <string name="titulo_chirigue">CHIRIHUE</string>
+
+    <string name="titulo_chuncho">CHUNCHO</string>
+
+    <string name="titulo_colegial">COLEGIAL</string>
+
+    <string name="titulo_diucon">DIUCON</string>
+
+    <string name="titulo_fiofio">FIO FIO</string>
+
+    <string name="titulo_golondrina">GOLONDRINA</string>
+
+    <string name="titulo_jilguero">JILGUERO</string>
+
+    <string name="titulo_picaflorchico">PICAFLOR CHICO</string>
+
+    <string name="titulo_platero">PLATERO</string>
+
+    <string name="titulo_rara">RARA</string>
+
+    <string name="titulo_rayadito">RAYADITO</string>
+
+    <string name="titulo_tapaculo">TAPACULO</string>
+
+    <string name="titulo_tucuquere">TUCUQUERE</string>
+
+    <string name="titulo_turca">TURCA</string>
+
+    <string name="titulo_yal">YAL</string>
+
+    <string name="titulo_zorzal">ZORZAL</string>
+
+    <string name="titulo_tortolacordillerana">TORTOLA CORDILLERANA</string>
+
+    <string name="titulo_bandurrilla">BANDURRILLA</string>
+
+    <string name="titulo_pilpilen">PILPILEN</string>
+
+    <string name="titulo_perdizchilena">PERDIZ CHILENA</string>
+
+    <string name="titulo_pitotoychico">PITOTOY CHICO</string>
+
+    <string name="titulo_gorrion">GORRION</string>
+
+    <string name="titulo_cometocinodegay">COMETOCINO DE GAY</string>
+
+    <string name="titulo_picaflorgigante">PICAFLOR GIGANTE</string>
+
+    <string name="titulo_zorzalmero">ZORZAL MERO</string>
+
+    <string name="titulo_perrito">PERRITO</string>
+
+    <string name="titulo_diuca">DIUCA</string>
+
+    <string name="titulo_churrin">CHURRIN</string>
+
+    <string name="titulo_pitio">PITIO</string>
+
+    <string name="titulo_canastero">CANASTERO</string>
+
+    <string name="titulo_gallinaciega">GALLINA CIEGA</string>
+
+    <string name="titulo_loica">LOICA</string>
+
+    <string name="titulo_minerocordillerano">MINERO CORDILLERANO</string>
+
+
+    //texto titulos mapu
+    <string name="titulo_cachudito_mapu">CACHUDITO</string>
+
+    <string name="titulo_chercan_mapu">CHEDÜF</string>
+
+    <string name="titulo_chincol_mapu">MEÑKUTOKI</string>
+
+    <string name="titulo_chirigue_mapu">CHIRIHUE</string>
+
+    <string name="titulo_chuncho_mapu">KILLKILL</string>
+
+    <string name="titulo_colegial_mapu">COLEGIAL</string>
+
+    <string name="titulo_diucon_mapu">PÜDKO</string>
+
+    <string name="titulo_fiofio_mapu">WIYU</string>
+
+    <string name="titulo_golondrina_mapu">PILLMAYKEÑ</string>
+
+    <string name="titulo_jilguero_mapu">JILGUERO</string>
+
+    <string name="titulo_picaflorchico_mapu">PICHI PINDA</string>
+
+    <string name="titulo_platero_mapu">PLATERO</string>
+
+    <string name="titulo_rara_mapu">RARA</string>
+
+    <string name="titulo_rayadito_mapu">RAYADITO</string>
+
+    <string name="titulo_tapaculo_mapu">TAPACULO</string>
+
+    <string name="titulo_tucuquere_mapu">TUCUQUERE</string>
+
+    <string name="titulo_turca_mapu">TURCA</string>
+
+    <string name="titulo_yal_mapu">YAL</string>
+
+    <string name="titulo_zorzal_mapu">WILKI</string>
+
+    <string name="titulo_tortolacordillerana_mapu">MAYKOÑO PIRE MAPU</string>
+
+    <string name="titulo_bandurrilla_mapu">RAKIÑ</string>
+
+    <string name="titulo_pilpilen_mapu">PILPILEN</string>
+
+    <string name="titulo_perdizchilena_mapu">FÜDÜ</string>
+
+    <string name="titulo_pitotoychico_mapu">PITOTOY CHICO</string>
+
+    <string name="titulo_gorrion_mapu">GORRION</string>
+
+    <string name="titulo_cometocinodegay_mapu">COMETOCINO DE GAY</string>
+
+    <string name="titulo_picaflorgigante_mapu">FUTA PINDA</string>
+
+    <string name="titulo_zorzalmero_mapu">WILKI MERO</string>
+
+    <string name="titulo_perrito_mapu">PERRITO</string>
+
+    <string name="titulo_diuca_mapu">SHIWKA</string>
+
+    <string name="titulo_churrin_mapu">CHURRIN</string>
+
+    <string name="titulo_pitio_mapu">PÜTIW</string>
+
+    <string name="titulo_canastero_mapu">CANASTERO</string>
+
+    <string name="titulo_gallinaciega_mapu">GALLINA CIEGA</string>
+
+    <string name="titulo_loica_mapu">LOYKA</string>
+
+    <string name="titulo_minerocordillerano_mapu">MINERO CORDILLERANO</string>
+
+    //texto Acerca de
+    <string name="texto_acercade">
+        Traducción al Mapudungun: Arturo Cañiupan.\n 
+        \n
+        Edición: @emekat\n
+        \n
+        Desarrollador: @jconchav\n
+    </string>
+</resources>
